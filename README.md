@@ -45,9 +45,6 @@ Hver deltager opretter sin egen mappe, og hvert projekt får sin egen undermappe
 - **Licens**: Angiv gerne hvordan andre må bruge dit arbejde (hvis relevant)
 - **Dokumentation**: En kort beskrivelse hjælper andre med at forstå dit projekt
 
-## Om Spektrummet
-
-Spektrummet er en del af Københavns Kommunes socialforvaltning og omfatter tilbud som TeamOP, Jobmatch, Pulsen og Væksthuset - beskæftigelsestilbud for voksne på autismespektret.
 
 ---
 
