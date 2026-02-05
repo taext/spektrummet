@@ -1,0 +1,4 @@
+
+# Liste over obs'er i Spektrummet
+
+- [ ] hoveddørlås låser kl. 19
